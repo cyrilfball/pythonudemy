@@ -1,7 +1,6 @@
 class Person:
   def __init__(self, name):
     self.name = name
-    self.danganronpa = monoj
     self.danganronpa2 = monokuma
 
 def compareBobs(blob, another_blob):
