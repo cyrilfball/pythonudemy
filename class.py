@@ -3,8 +3,8 @@ class Person:
     self.name = name
     self.name1 = name1
     self.danganronpa2 = monokuma
-    self.test3mergeconflict
-    elf.david = daves
+    self.test3mergeconflict = umani
+    self.david = dave
 
 def compareBobs(blob, another_blob):
     if blob is bob2:
