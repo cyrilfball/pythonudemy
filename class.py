@@ -2,7 +2,8 @@ class Person:
   def __init__(self, name):
     self.name = name
     self.name1 = name1
-    self.name2 = name2
+    self.danganronpa = monoj
+    self.danganronpa2 = monokuma
 
 def compareBobs(blob, another_blob):
     if blob is bob2:
