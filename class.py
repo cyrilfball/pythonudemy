@@ -1,3 +1,9 @@
+class Person:
+  def __init__(self, name):
+    self.name = name
+    self.name1 = name1
+    self.danganronpa2 = monokuma
+    self.test3mergeconflict = umani
 
 def compareBobs(blob, another_blob):
     if blob is bob2:
